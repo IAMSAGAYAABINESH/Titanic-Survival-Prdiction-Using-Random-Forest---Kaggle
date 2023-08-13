@@ -6,6 +6,10 @@ Training Data-[train.csv](https://github.com/IAMSAGAYAABINESH/Titanic-Survival-P
 
 Testing data -[test.csv](https://github.com/IAMSAGAYAABINESH/Titanic-Survival-Prdiction-Using-Random-Forest---Kaggle/files/12327118/test.csv)
 
+________________________________________________________________________________________________________________________________________
+
+# Data Description
+
 **PassengerId**: A unique identifier for each passenger.
 
 **Survived**: This column indicates whether the passenger survived (1) or did not survive (0) the Titanic disaster.
