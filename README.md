@@ -1,5 +1,8 @@
 # Titanic-Survival-Prdiction-Using-Random-Forest---Kaggle
 
+![titanicillustration 0 0-897x598](https://github.com/IAMSAGAYAABINESH/Titanic-Survival-Prdiction-Using-Random-Forest---Kaggle/assets/76099682/9fda3f6e-bb58-4682-b9cc-393ff924140b)
+
+
 In This project Random Forest Classifier Is Used To Predict If The Person Survived The Titanic Shipwreck
 
 Training Data-[train.csv](https://github.com/IAMSAGAYAABINESH/Titanic-Survival-Prdiction-Using-Random-Forest---Kaggle/files/12327117/train.csv)
